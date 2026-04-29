@@ -1,16 +1,34 @@
 ## Hi there 👋
+# Hi there 👋
 
-<!--
-**yogicodee/yogicodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer passionate about building impactful solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+### Programming
+![PHP](https://img.shields.io/badge/PHP-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-black)
+
+### Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Flutter](https://img.shields.io/badge/Flutter-blue)
+
+---
+
+## 🛠 Tools
+![Git](https://img.shields.io/badge/Git-orange)
+![Figma](https://img.shields.io/badge/Figma-pink)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+---
+
+## 📫 Contact
+- Email: your@email.com
+- LinkedIn: link kamu
