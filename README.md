@@ -3,10 +3,7 @@
 ## 💡 About Me
 I am a Software Engineer focused on building scalable backend systems and AI-based solutions.  
 I specialize in **REST API development, system architecture, and computer vision (YOLO models)**.
-
-I help businesses turn ideas into real, working products — from backend systems to AI-powered applications.
-
----
+I help businesses turn ideas into real, working products from backend systems to AI-powered applications.
 
 ## 🛠 Tech Stack
 
@@ -14,6 +11,11 @@ I help businesses turn ideas into real, working products — from backend system
 ![PHP](https://img.shields.io/badge/PHP-blue)
 ![Python](https://img.shields.io/badge/Python-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
 
 ### ⚙️ Frameworks & Tools
 ![Laravel](https://img.shields.io/badge/Laravel-red)
