@@ -1,33 +1,68 @@
-## Hi there 👋
+# Hi there 👋 I'm Ahmad Yogi Kulumul Ilham
 
-I am a Software Engineer passionate about building impactful solutions.
+## 💡 About Me
+I am a Software Engineer focused on building scalable backend systems and AI-based solutions.  
+I specialize in **REST API development, system architecture, and computer vision (YOLO models)**.
+
+I help businesses turn ideas into real, working products — from backend systems to AI-powered applications.
 
 ---
 
-## 🚀 Skills
-### Programming
+## 🛠 Tech Stack
+
+### 💻 Backend & Programming
 ![PHP](https://img.shields.io/badge/PHP-blue)
 ![Python](https://img.shields.io/badge/Python-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black)
 
-### Frameworks
+### ⚙️ Frameworks & Tools
 ![Laravel](https://img.shields.io/badge/Laravel-red)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
-![Flutter](https://img.shields.io/badge/Flutter-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal)
+
+### 🤖 AI & Data
+- YOLOv8 – YOLOv11 (Object Detection)
+- Computer Vision (Thermal UAV Imaging)
+- Model Evaluation (mAP, F1, Precision-Recall)
 
 ---
 
-## 🛠 Tools
-![Git](https://img.shields.io/badge/Git-orange)
-![Figma](https://img.shields.io/badge/Figma-pink)
+## 🚀 Featured Projects
+
+### 🔍 AI Wildlife Detection (YOLOv8–YOLOv11)
+- Detect humans & animals using UAV thermal imagery
+- Compared multiple YOLO versions
+- Achieved mAP up to **0.645**
+- Focus: conservation & anti-poaching
+
+---
+
+### 🌐 Backend API Development
+- RESTful API with Laravel & Node.js
+- Authentication system (JWT)
+- Database design (MySQL, Firebase)
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=yogicodee&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogicodee&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contact
-- Email: your@email.com
-- LinkedIn: link kamu
+## 💼 Services (Freelance)
+I am available for freelance work:
+- Backend Development (Laravel / Node.js)
+- API Development & Integration
+- AI / Computer Vision Projects
+- Thesis / Final Project Assistance (IT & AI)
+
+---
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/ahmad-yogi)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:yogiilham003@gmail.com)
+
+---
+
+⭐ *Open for opportunities: Full-time | Freelance | Collaboration*
