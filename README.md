@@ -1,5 +1,4 @@
 ## Hi there 👋
-# Hi there 👋
 
 I am a Software Engineer passionate about building impactful solutions.
 
