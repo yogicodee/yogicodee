@@ -46,12 +46,6 @@ I help businesses turn ideas into real, working products from backend systems to
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yogicodee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogicodee&layout=compact&theme=tokyonight)
-
----
-
 ## 💼 Services (Freelance)
 I am available for freelance work:
 - Backend Development (Laravel / Node.js)
