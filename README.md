@@ -1,102 +1,99 @@
 # Hi there 👋 I'm Ahmad Yogi Kulumul Ilham
 
-## 🚀 Fullstack Developer | Backend Engineer | AI Enthusiast
+## 🚀 Software Engineer | Backend & Fullstack Developer | AI Enthusiast
 
-I build scalable backend systems, modern web applications, and AI-powered solutions.
+I build scalable backend systems, modern fullstack applications, and AI-powered solutions focused on real-world problem solving.
 
-My main focus is:
+With a background in Software Engineering and AI research, I specialize in:
 - Backend Architecture
 - REST API Development
 - Fullstack Web Applications
 - AI & Computer Vision Systems
-- Production-Ready Software Engineering
+- Scalable Production Systems
 
-I enjoy turning complex ideas into real-world applications with clean architecture, scalable systems, and modern development workflows.
+I enjoy transforming ideas into production-ready applications using clean architecture, modern technologies, and efficient engineering workflows.
+
+---
+
+# 🧠 Core Expertise
+
+- REST API Development
+- Backend System Architecture
+- Fullstack Application Development
+- Database Design & Optimization
+- AI & Computer Vision Integration
+- Production-Ready Software Engineering
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Backend & Programming
-![PHP](https://img.shields.io/badge/PHP-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+## 💻 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## ⚙️ Backend Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-red)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Express.js](https://img.shields.io/badge/Express.js-black)
-![FastAPI](https://img.shields.io/badge/FastAPI-teal)
+## ⚙️ Backend & Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 ## 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 🗄 Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![MySQL](https://img.shields.io/badge/MySQL-orange)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Git](https://img.shields.io/badge/Git-black)
+## 🗄 Database & Dev Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
+### Stack
+Laravel • PostgreSQL • React • Tailwind CSS
+---
 
 ## 🌐 Backend API Development
-Scalable REST API development using Laravel & Node.js.
+Scalable backend systems and REST API services.
 
-Features:
+### Features
 - JWT Authentication
 - Clean Architecture
+- Modular Structure
 - Database Optimization
 - API Integration
-- Modular Backend Structure
-
+- Production-Level Backend Workflow
 ---
-
-# 📚 Currently Learning
-
-- System Design
-- DevOps & CI/CD
-- Docker Deployment
-- AI Model Deployment
-- Scalable Architecture
-
----
-
-# 💼 Freelance Services
+# 💼 Freelance & Collaboration
 
 Available for:
 - Backend Development
-- REST API Development
 - Fullstack Web Development
+- REST API Development
 - AI / Computer Vision Projects
-- Dashboard Systems
-- Thesis & Research Assistance (IT & AI)
-
+- Dashboard & Admin Systems
+- Software Engineering Collaboration
 ---
-
-# 📈 GitHub Goals 2026
-
-- Build production-ready SaaS applications
-- Contribute consistently to GitHub
-- Improve system architecture skills
-- Develop AI-integrated web applications
-
----
-
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/ahmad-yogi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-yogi)
 
-[![Email](https://img.shields.io/badge/Email-red)](mailto:yogiilham003@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogiilham003@gmail.com)
+
+---
+
+# ⭐ Motto
+
+> “Building scalable systems, solving real problems, and continuously learning through technology.”
 
 ---
 
@@ -104,4 +101,4 @@ Available for:
 - Full-time Opportunities
 - Freelance Projects
 - Collaboration
-- Software Engineering Roles
+- Backend / Fullstack / AI Engineering Roles
