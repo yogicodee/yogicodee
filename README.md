@@ -114,10 +114,6 @@ Available for:
   <img src="https://github-profile-trophy.vercel.app/?username=yogicodee&theme=tokyonight&row=1&column=6" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yogicodee&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Fullstack+Engineer;AI+Automation+Developer;Computer+Vision+Researcher" />
 </p>
