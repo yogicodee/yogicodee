@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=00FFAA&center=true&vCenter=true&width=1200&lines=AHMAD+YOGI+KULUMUL+ILHAM;BACKEND+ENGINEER;FULLSTACK+DEVELOPER;AI+AUTOMATION+ENGINEER;COMPUTER+VISION+RESEARCHER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=00FFAA&center=true&vCenter=true&width=1200&lines=AHMAD+YOGI+KULUMUL+ILHAM;FULLSTACK+DEVELOPER;AI+AUTOMATION+ENGINEER;COMPUTER+VISION+RESEARCHER" />
 </p>
 
 <p align="center">
