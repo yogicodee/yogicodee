@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ahmad Yogi Kulumul Ilham
 
-## 🚀 Software Engineer | Backend & Fullstack Developer | AI Enthusiast
+## 🚀 Software Engineer | Backend & Fullstack Developer | AI Automation
 
 I build scalable backend systems, modern fullstack applications, and AI-powered solutions focused on real-world problem solving.
 
