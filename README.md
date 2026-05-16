@@ -104,3 +104,7 @@ Available for:
 - Freelance Projects
 - Collaboration
 - Backend / Fullstack / AI Engineering Roles
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Fullstack+Engineer;AI+Automation+Developer;Computer+Vision+Researcher" />
+</p>
