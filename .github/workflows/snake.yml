@@ -6,21 +6,23 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: yogicodee
           outputs: dist/snake.svg
 
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output
-          folder: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
