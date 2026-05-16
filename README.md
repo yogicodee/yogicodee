@@ -60,7 +60,7 @@ Specialized in:
 # ░▒▓█ ⚡ TECH STACK █▓▒░
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,python,js,ts,nodejs,express,laravel,fastapi,react,nextjs,tailwind,postgres,mysql,docker,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,dart,flutter,nodejs,express,laravel,fastapi,react,nextjs,tailwind,postgres,mysql,sqlite,docker,git,github,vscode,linux" />
 </p>
 
 ---
@@ -76,6 +76,8 @@ Specialized in:
 <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+
+<img src="https://img.shields.io/badge/DART-111111?style=for-the-badge&logo=dart&logoColor=0175C2"/>
 
 </p>
 
@@ -107,6 +109,8 @@ Specialized in:
 
 <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
 
+<img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=02569B"/>
+
 </p>
 
 ---
@@ -118,6 +122,8 @@ Specialized in:
 <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=336791"/>
 
 <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=F29111"/>
+
+<img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
 
 <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 
