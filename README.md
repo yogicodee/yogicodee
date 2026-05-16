@@ -130,9 +130,11 @@ Specialized in:
 # ░▒▓█ 📊 GITHUB ANALYTICS █▓▒░
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogicodee&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogicodee&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogicodee&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogicodee&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
