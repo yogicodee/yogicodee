@@ -145,6 +145,10 @@ Specialized in:
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yogicodee&theme=tokyonight&row=1&column=6" alt="GitHub Trophy"/>
+</p>
+
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yogicodee&theme=tokyonight&row=1&column=6"/>
 </p>
 
