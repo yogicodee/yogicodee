@@ -136,11 +136,8 @@ Specialized in:
 # ░▒▓█ 📊 GITHUB ANALYTICS █▓▒░
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogicodee&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogicodee&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
