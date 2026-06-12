@@ -148,8 +148,6 @@ Specialized in:
 <img src="https://github-profile-trophy.vercel.app/?username=yogicodee&theme=tokyonight&row=1&column=6"/>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yogicodee&theme=tokyonight&row=1&column=6&no-frame=true" />
-
 ---
 
 # ░▒▓█ 🔥 ACTIVE PROJECTS █▓▒░
