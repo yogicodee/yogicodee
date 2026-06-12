@@ -21,6 +21,9 @@ Status      : Building scalable production systems...
 Location    : Indonesia
 Experience  : Backend • AI • Fullstack Engineering
 ```
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems;Developing+AI+Solutions;Computer+Vision+Researcher;Backend+Engineer;Always+Learning+New+Technologies"/>
+</p>
 
 ---
 
