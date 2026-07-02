@@ -143,10 +143,10 @@ Specialized in:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogicodee&theme=tokyonight&hide_border=true"/>
 </p>
 
-//*<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yogicodee&theme=tokyonight&row=1&column=6"/>
 *//</p>
-
+-->
 ---
 
 # ░▒▓█ 🔥 ACTIVE PROJECTS █▓▒░
