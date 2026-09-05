@@ -13,7 +13,7 @@
 ```bash
 > booting developer profile...
 
-Name        : Ahmad Yogi Kulumul Ilham
+Name        : Ahmad Yogi Kulumul Ilha
 Role        : Software Engineer
 Speciality  : Backend & Fullstack Development
 Focus       : AI Automation & Computer Vision
